@@ -17,18 +17,27 @@
         android:id="@+id/tv_judulmovie"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Ini Judul"/>
+        android:text="Ini Judul"
+        android:textSize="32sp"
+        android:textColor="@color/black"
+        android:gravity="center"/>
 
     <TextView
         android:id="@+id/tv_tahun"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Ini Judul"/>
+        android:text="Ini Judul"
+        android:textSize="20sp"
+        android:textColor="@color/black"
+        android:gravity="center"/>
 
     <TextView
         android:id="@+id/tv_tglrilis"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Ini Judul"/>
+        android:text="Ini Judul"
+        android:textSize="20sp"
+        android:textColor="@color/black"
+        android:gravity="center"/>
 
 </LinearLayout>
